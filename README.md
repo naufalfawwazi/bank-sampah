@@ -9,7 +9,7 @@ Sebuah aplikasi mobile yang dibuat menggunakan bahasa pemrograman Java yang berf
 Pemrograman Berorientasi Objek
 
 ### Cara penggunaan
-[![Video penjelasan](https://i9.ytimg.com/vi/L1oT2jGqYqk/maxresdefault.jpg?time=1654449000000&sqp=COjG85QG&rs=AOn4CLBUEBsdbA-4YjP5Lw-u8tIlEqDrsA)](https://youtu.be/L1oT2jGqYqk)
+[![Video penjelasan](https://drive.google.com/uc?export=download&id=1VtvUrZTtSfU6bDcnZ5PBHq4NtIF2J7DA)](https://youtu.be/L1oT2jGqYqk)
 
 ### Lampiran
 ![Lampiran 1](https://drive.google.com/uc?export=download&id=1JccjHdI0_FiSk7sKzCDKDdZW22Ae7kTC)
